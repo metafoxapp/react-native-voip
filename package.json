@@ -1,0 +1,54 @@
+{
+  "name": "react-native-voip",
+  "version": "1.0.0",
+  "description": "webrtc background supported call notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamharshkumar/react-native-voip-call.git"
+  },
+  "author": "Harsh",
+  "maintainers": [
+    "See AUTHORS file"
+  ],
+  "contributors": [
+    "See AUTHORS file"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-native-webrtc/react-native-voip-call/issues"
+  },
+  "homepage": "https://github.com/iamharshkumar/react-native-voip-call/blob/master/README.md",
+  "keywords": [
+    "react-native",
+    "android",
+    "ios",
+    "video call",
+    "webrtc",
+    "facebook messenger",
+    "whats app",
+    "whats app like call",
+    "facebook messenger like call",
+    "call notification",
+    "android call notification",
+    "voip",
+    "voip video call",
+    "voip call screen",
+    "voip call notification",
+    "voip push notification",
+    "apple push kit",
+    "apple push kit payload",
+    "firebase background notification"
+  ],
+  "peerDependencies": {
+    "react-native": "^0.60.0"
+  },
+  "directories": {
+    "doc": "doc",
+    "example": "example",
+    "lib": "lib"
+  }
+}
