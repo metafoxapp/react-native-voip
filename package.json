@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamharshkumar/react-native-voip-call.git"
+    "url": "git+https://github.com/metafoxapp/react-native-voip.git"
   },
-  "author": "Harsh",
+  "author": "metafox",
   "maintainers": [
     "See AUTHORS file"
   ],
@@ -21,27 +21,9 @@
   "bugs": {
     "url": "https://github.com/react-native-webrtc/react-native-voip-call/issues"
   },
-  "homepage": "https://github.com/iamharshkumar/react-native-voip-call/blob/master/README.md",
+  "homepage": "https://github.com/metafoxapp/react-native-voip/blob/master/README.md",
   "keywords": [
-    "react-native",
-    "android",
-    "ios",
-    "video call",
-    "webrtc",
-    "facebook messenger",
-    "whats app",
-    "whats app like call",
-    "facebook messenger like call",
-    "call notification",
-    "android call notification",
-    "voip",
-    "voip video call",
-    "voip call screen",
-    "voip call notification",
-    "voip push notification",
-    "apple push kit",
-    "apple push kit payload",
-    "firebase background notification"
+    "react-native"
   ],
   "peerDependencies": {
     "react-native": "^0.60.0"
